@@ -9,6 +9,7 @@ namespace _1Nov
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello!");
             Console.WriteLine("From VS");
+            Console.WriteLine("Hello!2");
             Console.ReadLine();
         }
     }
